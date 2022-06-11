@@ -2,7 +2,7 @@
 ## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - Kendimden  bahsedeyim. Ben [ArianT](https://github.com/ArianT-Yt) öğrenmeye meraklı birisiyim.
-1.5 yıla yakındır yazılım ile ilgileniyorum. [Arian'T](https://youtu.be/xnQB0shHzUI) youtube serime göz atabilirsiniz.
+Yaklaşık 2019'dan beri yazılım ile ilgileniyorum. [Arian'T](https://youtu.be/xnQB0shHzUI) youtube serime göz atabilirsiniz.
 
 - İletişim için yigit.best@outlook.com'a yazabilirsiniz.
 
